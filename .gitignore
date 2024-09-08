@@ -1,6 +1,8 @@
-.gitignore.idea/
-.git-learning.iml.idea/
-.misc.xml.idea/
-.modules.xml.idea/
-.profiles_settings.xml.idea/
+.idea/.gitignore
+.idea/git-learning.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/profiles_settings.xml
+.idea/Project_Default.xml
+
 
